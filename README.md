@@ -1,4 +1,4 @@
-# vehicle-market-dashboard
+# vehicle-market-interactive-dashboard
 
 > **🚀 [View the Live Interactive Dashboard here](https://vehicle-market-dashboard.streamlit.app)**
 
