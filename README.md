@@ -1,6 +1,6 @@
 # vehicle-market-interactive-dashboard
 
-> **🚀 [View the Live Interactive Dashboard here]([https://vehicle-market-interactive-dashboard.streamlit.app/])**
+> **🚀 [View the Live Interactive Dashboard here](https://vehicle-market-interactive-dashboard.streamlit.app/)**
 
 An interactive Streamlit web application for analyzing US vehicle market trends, featuring dynamic Plotly visualizations and real-time data filtering.
 
