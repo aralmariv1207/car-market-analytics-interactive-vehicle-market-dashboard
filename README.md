@@ -1,8 +1,11 @@
-# vehicle-market-interactive-dashboard
+# Car Market Analytics: Interactive Vehicle Market Dashboard
+
+## About
+
+An interactive Streamlit web application for analyzing US vehicle market trends, featuring dynamic Plotly visualizations and real-time data filtering.
 
 > **🚀 [View the Live Interactive Dashboard here](https://vehicle-market-interactive-dashboard.streamlit.app/)**
 
-An interactive Streamlit web application for analyzing US vehicle market trends, featuring dynamic Plotly visualizations and real-time data filtering.
 
 ## 🚀 Technical Highlights
 
